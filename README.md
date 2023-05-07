@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercenary666
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning HTML, Javascript, CSS
 - 💞️ I’m looking to collaborate on GITHUB COMMUNITY 
 - 📫 How to reach me abuabuclarenceeccbscs@gmail.com
 
